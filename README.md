@@ -39,4 +39,4 @@ To validate the report by:
 
 #### [Step 3. Check Calculation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/3_CheckCalculation.ipynb)
 
-#### [4. Step 4. Check Data Location](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/4_CheckDataLocation.ipynb)
+#### [Step 4. Check Data Location](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/4_CheckDataLocation.ipynb)
