@@ -33,14 +33,10 @@ To validate the report by:
 ## Part 4. Steps
 > [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/5_CompleteCode.ipynb) 
 
-### Step 1. Preparation
-[1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/1_Preparation.ipynb) 
+#### [Step 1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/1_Preparation.ipynb) 
 
-### Step 2. Check Original Data
-[2. Check Original Data](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_CheckOriginalData.ipynb) 
+#### [Step 2. Check Original Data](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_CheckOriginalData.ipynb) 
 
-### Step 3. Check Calculation
-[3. Check Calculation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/3_CheckCalculation.ipynb)
+#### [Step 3. Check Calculation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/3_CheckCalculation.ipynb)
 
-### Step 4. Check Data Location
-[4. Check Data Location](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/4_CheckDataLocation.ipynb)
+#### [4. Step 4. Check Data Location](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/4_CheckDataLocation.ipynb)
