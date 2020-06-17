@@ -45,12 +45,12 @@ To validate the report by:
 - Tool: ```xlwings```
 
 ## Part 4. Steps
-> [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/5_CompleteCode.ipynb) 
+> [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/5_CompleteCode.ipynb) 
 
-#### [Step 1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/1_Preparation.ipynb) 
+#### [Step 1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/1_Preparation.ipynb) 
 
-#### [Step 2. Check Original Data](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_CheckOriginalData.ipynb) 
+#### [Step 2. Check Original Data](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/2_CheckOriginalData.ipynb) 
 
-#### [Step 3. Check Calculation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/3_CheckCalculation.ipynb)
+#### [Step 3. Check Calculation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/3_CheckCalculation.ipynb)
 
-#### [Step 4. Check Data Location](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/4_CheckDataLocation.ipynb)
+#### [Step 4. Check Data Location](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/4_CheckDataLocation.ipynb)
