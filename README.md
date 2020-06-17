@@ -1,7 +1,11 @@
 # Check Calculation Result
 
 ## Spyder Project
-
+<br>
+<div align=center><img src="https://github.com/lclh813/Check_Calculation_Result/blob/master/0_Project_Structure.png"/></div>
+<br>
+<div align=center><img src="https://github.com/lclh813/Time_Series_Analysis/blob/master/Formula/F_2_ArimaParameter.png"/></div>
+<br>
 
 ## Jupyter Notebook
 It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
