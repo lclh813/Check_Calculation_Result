@@ -6,7 +6,7 @@
 <br>
 
 - ```data_config.py``` Define constants.
-- ```query_db.py``` Extract original values stored n SQL.
+- ```query_db.py``` Extract original data stored in SQL.
 - ```query_excel.py``` Extract calculated results from Excel.
 - ```check_excel_db.py``` Make comparison between SQL and Excel.
 - ```check_excels.py``` Make comparison between Excel worksheets.
