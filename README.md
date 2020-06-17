@@ -6,7 +6,12 @@
 <br>
 
 - ```data_config.py``` Define constants.
-
+- ```query_db.py``` Extract original values stored n SQL.
+- ```query_excel.py``` Extract calculated results from Excel.
+- ```check_excel_db.py``` Make comparison between SQL and Excel.
+- ```check_excels.py``` Make comparison between Excel worksheets.
+- ```line_msg.py``` Send Line messages when checking is completed.
+-- ```main.py``` Contain all the execution codes.
 
 ## Jupyter Notebook
 It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
