@@ -5,6 +5,9 @@
 <div align=center><img src="https://github.com/lclh813/Check_Calculation_Result/blob/master/0_Project_Structure.png"/></div>
 <br>
 
+- ```data_config.py``` Define constants.
+
+
 ## Jupyter Notebook
 It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
 
