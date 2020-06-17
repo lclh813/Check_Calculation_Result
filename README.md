@@ -2,7 +2,7 @@
 
 ## Spyder Project
 <br>
-<div align=center><img src="https://github.com/lclh813/Check_Calculation_Result/blob/master/0_Project_Structure.png"/></div>
+<div align=center><img src="https://github.com/lclh813/Check_Calculation_Result/blob/master/0_Pic/P_0_Project_Structure.png"/></div>
 <br>
 
 - ```data_config.py``` Define constants.
