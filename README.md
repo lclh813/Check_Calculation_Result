@@ -30,7 +30,7 @@ To validate the report by:
 - ```main.py``` Contain all the execution codes.
 
 ### 3.2. Jupyter Notebook
-#### 3.2.1. Outline
+### 3.2.1. Outline
 #### 3.2.1.1. Check Original Data
 - To verify if original data is imported into Excel correctly by comparing data retreived from Database and Excel.
 - Tool: ```SQLite```  ```xlwings```
@@ -43,7 +43,7 @@ To validate the report by:
 - To check numbers of given category are shown at the desired cells.
 - Tool: ```xlwings```
 
-#### 3.2.2. Steps
+### 3.2.2. Steps
 > [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/5_CompleteCode.ipynb) 
 
 #### [Step 1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/1_Preparation.ipynb) 
