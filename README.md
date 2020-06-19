@@ -30,8 +30,6 @@ To validate the report by:
 - ```main.py``` Contain all the execution codes.
 
 ### 3.2. Jupyter Notebook
-It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
-
 ### 3.2.1. Outline
 ### 3.2.1.1. Check Original Data
 - To verify if original data is imported into Excel correctly by comparing data retreived from Database and Excel.
