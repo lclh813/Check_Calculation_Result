@@ -31,19 +31,19 @@ To validate the report by:
 
 ### 3.2. Jupyter Notebook
 #### 3.2.1. Outline
-##### 3.2.1.1. Check Original Data
+#### 3.2.1.1. Check Original Data
 - To verify if original data is imported into Excel correctly by comparing data retreived from Database and Excel.
 - Tool: ```SQLite```  ```xlwings```
 
-##### 3.2.1.2. Check Calculation
+#### 3.2.1.2. Check Calculation
 - To check the validity of VBA script by comparing with the calculated results run by Excel formula.
 - Tool: ```xlwings```
 
-##### 3.2.1.3. Check Data Location 
+#### 3.2.1.3. Check Data Location 
 - To check numbers of given category are shown at the desired cells.
 - Tool: ```xlwings```
 
-##### 3.2.2. Steps
+#### 3.2.2. Steps
 > [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/5_CompleteCode.ipynb) 
 
 #### [Step 1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/1_Preparation.ipynb) 
