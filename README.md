@@ -16,7 +16,7 @@ To validate the report by:
 - Tool: ```xlwings```
 
 ## Part 3. Solution
-## 3.1. Spyder Project
+### 3.1. Spyder Project
 <br>
 <div align=center><img src="https://github.com/lclh813/Check_Calculation_Result/blob/master/0_Pic/P_0_Project_Structure.png"/></div>
 <br>
@@ -29,10 +29,10 @@ To validate the report by:
 - ```line_msg.py``` Send Line messages when checking is completed.
 - ```main.py``` Contain all the execution codes.
 
-## 3.2. Jupyter Notebook
+### 3.2. Jupyter Notebook
 It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
 
-## 3.2.1. Outline
+### 3.2.1. Outline
 ### 3.2.1.1. Check Original Data
 - To verify if original data is imported into Excel correctly by comparing data retreived from Database and Excel.
 - Tool: ```SQLite```  ```xlwings```
@@ -45,7 +45,7 @@ It is possible that GitHub fails to display Jupyter Notebooks. Should such circu
 - To check numbers of given category are shown at the desired cells.
 - Tool: ```xlwings```
 
-## 3.2.2. Steps
+### 3.2.2. Steps
 > [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/5_CompleteCode.ipynb) 
 
 #### [Step 1. Preparation](https://nbviewer.jupyter.org/github/lclh813/Check_Calculation_Result/blob/master/2_Jupyter_Notebook/1_Preparation.ipynb) 
