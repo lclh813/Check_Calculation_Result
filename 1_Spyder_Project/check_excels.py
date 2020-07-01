@@ -51,7 +51,6 @@ class Check_Excels:
         df1_dict, df2_dict = {}, {}
         for item in tqdm(item_list):
         
-            # Excel驗算頁
             df1_dict[item[2]], df1_key, df1_val = {}, [], []
             for c in col1[2:]:
                 df1.range('H5:H7').value = [[elem] for elem in item]
